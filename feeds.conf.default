@@ -8,6 +8,6 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git kenzok https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
-src-git dockerman https://github.com/lisaac/luci-app-dockerman
-src-git bypass https://github.com/kiddin9/openwrt-bypass
-src-git browser https://github.com/filebrowser/filebrowser
+#src-git dockerman https://github.com/lisaac/luci-app-dockerman
+#src-git bypass https://github.com/kiddin9/openwrt-bypass
+#src-git browser https://github.com/filebrowser/filebrowser
